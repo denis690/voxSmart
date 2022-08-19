@@ -1,0 +1,14 @@
+{
+  "signInTestUser": {
+    "firstname": "Nadiia",
+    "lastname": "Jonson",
+    "emailP1": "d.g",
+    "emailP2": "@email.com",
+    "tel": "07452345779",
+    "password": "A5787690"
+  },
+  "invalidTestUser": {
+    "username": "bad@example.com",
+    "password": "123456"
+  }
+}
