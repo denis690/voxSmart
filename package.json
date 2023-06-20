@@ -19,7 +19,7 @@
     "geckodriver": "^3.0.1",
     "js-cookie": "^3.0.0",
     "node-fetch": "^2.6.7",
-    "twilio": "^3.68.0"
+    "twilio": "^4.0.0"
   },
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.15.0",
