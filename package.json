@@ -13,13 +13,13 @@
     "@babel/register": "^7.12.1",
     "@cucumber/cucumber": "^7.3.1",
     "@testing-library/cypress": "^8.0.2",
-    "chromedriver": "^100.0.0",
+    "chromedriver": "^107.0.2",
     "cucumber-html-reporter": "^5.5.0",
     "cypress-mochawesome-reporter": "^3.0.0",
     "geckodriver": "^3.0.1",
     "js-cookie": "^3.0.0",
     "node-fetch": "^2.6.7",
-    "twilio": "^3.68.0"
+    "twilio": "^4.6.0"
   },
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.15.0",
