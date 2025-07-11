@@ -15,7 +15,7 @@
     "@testing-library/cypress": "^8.0.2",
     "chromedriver": "^100.0.0",
     "cucumber-html-reporter": "^5.5.0",
-    "cypress-mochawesome-reporter": "^3.0.0",
+    "cypress-mochawesome-reporter": "^4.0.0",
     "geckodriver": "^3.0.1",
     "js-cookie": "^3.0.0",
     "node-fetch": "^2.6.7",
